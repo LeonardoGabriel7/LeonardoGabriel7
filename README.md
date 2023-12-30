@@ -21,6 +21,10 @@
 ## Contacts:
 <a href="mailto:l3onardo18072006@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  
+ [![WhatsApp](URL_DA_IMAGEM_DO_WHATSAPP)](https://wa.me/5531998876120)
+</a>
+</a>
 </a>
 
 &nbsp;
