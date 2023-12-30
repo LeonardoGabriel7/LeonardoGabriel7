@@ -1,6 +1,6 @@
 
 
-
+<p align="center">Estudante de Front end <br><br> 
 
 ## Minhas habilidades
 
