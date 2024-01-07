@@ -1,5 +1,11 @@
 
-
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ <br>
+ <br>
+ 
 <p align="center">Estudante de Front end <br><br> 
 
 ## Minhas habilidades
@@ -23,6 +29,20 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/leonardo-gabriel-de-sousa-403566196/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </a>
   
  
